@@ -1,2 +1,2 @@
 # alu-interview
-minimum operations
+minimumi-operations authored by Grace Munezero
